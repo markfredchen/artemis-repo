@@ -2,11 +2,12 @@
 <metadata>
   <groupId>com.handchina.atlantis</groupId>
   <artifactId>contact-dto</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>1.0-SNAPSHOT</version>
-      <version>1.0.0-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20160222.064822</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20160222064822</lastUpdated>
   </versioning>
 </metadata>
